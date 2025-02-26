@@ -18,3 +18,4 @@ when creating any app it is need to register in main settings.py.
 find installed_APPS and then register our app.
 'todo',
  
+...
